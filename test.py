@@ -1,1 +1,0 @@
-number = "+your number with country code"
